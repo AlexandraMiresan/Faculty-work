@@ -12,7 +12,7 @@
        </li>
    </li>
     <li>
-       <a href=""> 
+       <a href="https://github.com/AlexandraMiresan/Computer-Science-Architecture"> 
           Comptuer Science Architecture
         </a>
      </ul>
