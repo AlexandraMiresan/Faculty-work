@@ -6,13 +6,13 @@
    <li>:open_file_folder: Semester 1
      <ul>
        <li>
-         <a href="https://github.com/TimoficiucDaniel/Fundamentals-of-Programming"> 
+         <a href="https://github.com/AlexandraMiresan/Fundamentals-Of-Programming"> 
            Fundamentals of Programming
          </a>
        </li>
    </li>
     <li>
-       <a href="https://github.com/TimoficiucDaniel/Fundamentals-of-Programming"> 
+       <a href=""> 
           Comptuer Science Architecture
         </a>
      </ul>
@@ -21,17 +21,17 @@
    <li>:open_file_folder: Semester 2
      <ul>
        <li>
-         <a href="https://github.com/TimoficiucDaniel/Object-Oriented-Programming"> 
+         <a href=""> 
            Object Oriented Programming
          </a>
        </li>
        <li>
-         <a href="https://github.com/TimoficiucDaniel/Data-Structures-and-Algorithms"> 
+         <a href=""> 
            Data Structures and Algorithms
          </a>
        </li>
         <li>
-         <a href="https://github.com/TimoficiucDaniel/Graphs"> 
+         <a href=""> 
            Graphs
          </a>
        </li>
