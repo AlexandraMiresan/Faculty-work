@@ -10,13 +10,14 @@
            Fundamentals of Programming
          </a>
        </li>
-     </ul>
    </li>
     <li>
        <a href="https://github.com/TimoficiucDaniel/Fundamentals-of-Programming"> 
           Comptuer Science Architecture
         </a>
+     </ul>
    </li>
+     
    <li>:open_file_folder: Semester 2
      <ul>
        <li>
