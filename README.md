@@ -26,12 +26,12 @@
          </a>
        </li>
        <li>
-         <a href=""> 
+         <a href="https://github.com/AlexandraMiresan/Data-Structures-and-Algorithms"> 
            Data Structures and Algorithms
          </a>
        </li>
         <li>
-         <a href=""> 
+         <a href="https://github.com/AlexandraMiresan/Graphs"> 
            Graphs
          </a>
        </li>
